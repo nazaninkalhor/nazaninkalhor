@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nazaninkalhor
-- 👀 I’m interested in Web Development mostly Front-end and UI/UX
-- 🌱 I’m currently learning Front-end Development
+- 👀 I’m interested in Frontend development and UI/UX
+- 🌱 I'm a Frontend Developer with a passion for continuously learning more about the field
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 You can reach me at my email: ZahraKalhor2002@gmail.com 
 
